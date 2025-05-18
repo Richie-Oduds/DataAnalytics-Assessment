@@ -3,13 +3,13 @@ This evaluation is designed to measure my ability to work with relational databa
 Assessment Overview
 I was provided with a database containing the following tables. Alternatively, this is the link to download the database file (https://drive.google.com/file/d/1__51EvatOK1ubG4oi0Im_VW2UWUChMHu/view?usp=drive_link)
 
-# The Tables in our Database and the Information it Contains
+## The Tables in our Database and the Information it Contains
 * users_customuser: customer demographic and contact information
 * savings_savingsaccount: records of deposit transactions
 * plans_plan: records of plans created by customers
 * withdrawals_withdrawal:  records of withdrawal transactions
 
-# Evaluation Criteria
+## Evaluation Criteria
 The solutions will be assessed on:
 
 * Accuracy: Correctness of query results
